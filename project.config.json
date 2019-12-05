@@ -1,0 +1,181 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.3.1",
+	"appid": "wx2d9477ca5518018b",
+	"projectname": "mpvue-bqrzzl_mall",
+	"miniprogramRoot": "dist/wx/",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 17,
+			"list": [
+				{
+					"id": 2,
+					"name": "主页",
+					"pathName": "pages/home/main",
+					"query": "from=fromTest111",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "汽车资讯",
+					"pathName": "pages/service/news/main",
+					"query": "share=true",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "汽车资讯详细页面",
+					"pathName": "pages/service/news/carConsult/main",
+					"query": "id=cb3d011e2fc04988ad47fa5df6d33100",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "组队抽奖",
+					"pathName": "pages/active/group/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "预约",
+					"pathName": "pages/user/appointment/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "组团活动首页",
+					"pathName": "pages/active/group/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 11,
+					"name": "奖品详细页",
+					"pathName": "pages/active/group/giftItem/main",
+					"query": "teamId=35e65a8a43754a3089ca20019d9a9879",
+					"scene": null
+				},
+				{
+					"id": 13,
+					"name": "分享",
+					"pathName": "pages/active/group/newUser/main",
+					"query": "teamId=35e65a8a43754a3089ca20019d9a9879&userId=f08ab04ee3014d02a19bf27a447b3cc1",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "立即申请",
+					"pathName": "pages/productDetails/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 15,
+					"name": "底价车险",
+					"pathName": "pages/djcx/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 16,
+					"name": "V币",
+					"pathName": "pages/service/vb/poster/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "设置",
+					"pathName": "pages/user/setting/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "服务",
+					"pathName": "pages/service/service/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 13,
+					"name": "车辆列表",
+					"pathName": "pages/specialCar/main",
+					"query": "productStateId=2",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "分享",
+					"pathName": "pages/active/bargain/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "注册",
+					"pathName": "pages/login/bindPhone/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "活体检测",
+					"pathName": "pages/user/liveBody/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/productDetails/main",
+					"pathName": "pages/productDetails/main",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
